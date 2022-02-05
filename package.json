@@ -1,0 +1,23 @@
+{
+  "name": "highway-search",
+  "version": "1.0.0",
+  "description": "search engine",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Highway-search/highway-search.GitHub.io.git"
+  },
+  "keywords": [
+    "search-engine",
+    "MrT"
+  ],
+  "author": "MrT",
+  "license": "SEE LICENCE IN LICENCE.html",
+  "bugs": {
+    "url": "https://github.com/Highway-search/highway-search.GitHub.io/issues"
+  },
+  "homepage": "https://highway-search.github.io"
+}
