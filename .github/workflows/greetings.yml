@@ -1,0 +1,16 @@
+name: Greetings
+
+on: [pull_request, issues]
+
+jobs:
+  greeting:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      pull-requests: write
+    steps:
+    - uses: actions/first-interaction@v1
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        issue-message: 'welcome to issue in highway search. issue is a bug report, ask question or ask help. thank you for making a issue and thank you for first time.'
+        pr-message: 'this is pull request, this is a chatting place to develop.'
