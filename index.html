@@ -14,7 +14,7 @@
     <body>
             <nav class="navbar navbar-expand-lg navbar-light bg-light">
                 <div class="container-fluid">
-                    <a class="navbar-brand" href="index.html">Navbar</a>
+                    <a class="navbar-brand" href="index.html"><img src="https://avatars.githubusercontent.com/u/98774764?s=200&v=4" style="width: 15%;cm;border-color:green;">HighWay Search</div></a>
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                     </button>
@@ -62,10 +62,26 @@
                 </div>
             </div>
         </nav>
-        <div id="search" class="search">
-            <div class="search search-text" id="search-text">
-                <h1><b>Text Search:</b></h1>
-                <input type="text">
+        <div tag="body" style="width: 100%;">
+            <div id="search-tab-group" class="search-tab search-tab-group">
+                <img src="" id="backgroundIMG" class="search-tab search-tab-backgroud" style="width: 100%; height: auto;">
+                <div id="search" class="search search-tab">
+                    <div class="search search-text" id="search-text">
+                        <h1><b>Text Search:</b></h1>
+                        <input type="search" id="search">
+                        <button class="btn btn-outline-success" type="submit" onclick="searchQueryUpdate">Search</button>
+                        <script>
+                            function searchQueryUpdate() {
+                                const searchQuery = document.getElementById("search")
+
+                            }
+                        </script>
+                    </div>
+                </div>
+                <script src="js/module.js" type="module"></script>
+                <script>
+                    PhotoGenSearchTabPhoto()
+                </script>
             </div>
         </div>
     </body>
