@@ -5,10 +5,10 @@
     <description>An RSS version update log of search engine called highway-search</description>
     <link>https://highway-search.github.io</link>
         <item>
-        <title>How to Find the Absolute Value in a Problem</title>
-        <description>Are you having problems in your Algebra class? If so, this article is perfect for you.
-        Absolute is the distance from zero on the number line.</description>
-        <link>http://www.wikihow.com/Find-the-Absolute-Value-in-a-Problem</link>
+        <title>Version Beta 0.0.2.1</title>
+        <description>Version Beta 0.0.2.1
+        Added RSS update log</description>
+        <link>https://github.com/Highway-search/highway-search.GitHub.io/commit/eba760f2b87cb2307bdc4680c8da092bbf0e2c19</link>
     </item>
     <item>
         <title>Version Beta 0.0.2</title>
