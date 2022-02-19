@@ -4,7 +4,13 @@
     <title>Highway search VeRSSiion</title>
     <description>An RSS version update log of search engine called highway-search</description>
     <link>https://highway-search.github.io</link>
-        <item>
+    <item>
+        <title>Version Beta 0.0.2.1</title>
+        <description>Version Beta 0.0.2.2:
+        Fixed wierd DOT thing before Disabled</description>
+        <link>https://github.com/Highway-search/highway-search.GitHub.io/commit/eba760f2b87cb2307bdc4680c8da092bbf0e2c19</link>
+    </item>
+    <item>
         <title>Version Beta 0.0.2.1</title>
         <description>Version Beta 0.0.2.1
         Added RSS update log</description>
