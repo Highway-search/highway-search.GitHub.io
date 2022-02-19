@@ -1,0 +1,22 @@
+<? xml version=”1.0” ?>
+    <rss version=”2.0”>
+    <channel>
+    <title>Highway search VeRSSiion</title>
+    <description>An RSS version update log of search engine called highway-search</description>
+    <link>https://highway-search.github.io</link>
+        <item>
+        <title>How to Find the Absolute Value in a Problem</title>
+        <description>Are you having problems in your Algebra class? If so, this article is perfect for you.
+        Absolute is the distance from zero on the number line.</description>
+        <link>http://www.wikihow.com/Find-the-Absolute-Value-in-a-Problem</link>
+    </item>
+    <item>
+        <title>Version Beta 0.0.2</title>
+        <description>I can't remember the changes I made....</description>
+        <link>https://github.com/Highway-search/highway-search.GitHub.io/commit/5d555e9853caf7be3aa67eb210b4ba5d5a588073</link>
+    </item>
+    <item>
+        <title>Version Beta 0.0.1 Or is it?(NO COMMIT MESSAGE)</title>
+        <description>Stuck on the Hoth missions on your Lego Star Wars game? Well you are in luck because of this article.</description>
+        <link>https://github.com/Highway-search/highway-search.GitHub.io/commit/484a8b2298eabf92e3fa276d17492d81fc6f877b</link>
+    </item>

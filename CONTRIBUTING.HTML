@@ -61,8 +61,16 @@
                 </div>
             </div>
         </nav>
-        <script src="script.js">
-        
+        <embed id="CODE" src="CONTRIBUTING.md" style="width: 1mm;height: 1mm;">
+        <script>
+            function CONTRIBUTINGCODE (){
+                const CONTRIBUTINGCODE = document.getElementById("CODE").innerHTML
+                const CODE2 = document.getElementById("CODE2")
+                CODE2.innerHTML("hi" + CONTRIBUTINGCODE)
+            }
+            CONTRIBUTINGCODE ()
         </script>
+
+        <div id="CODE2"></div>
     </body>
 </html>
