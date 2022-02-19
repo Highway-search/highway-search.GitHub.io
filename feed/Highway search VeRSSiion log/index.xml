@@ -1,7 +1,7 @@
 <? xml version=”1.0” ?>
     <rss version=”2.0”>
     <channel>
-    <title>Highway search VeRSSiion</title>
+    <title>Highway search VeRSSiion log</title>
     <description>An RSS version update log of search engine called highway-search</description>
     <link>https://highway-search.github.io</link>
     <item>
